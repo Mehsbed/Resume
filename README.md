@@ -14,7 +14,7 @@
 *B.Tech in Computer Science Engineering*  
 Minors in Cybersecurity & Digital Forensics  
 📅 Expected Graduation: May 2026  
-📊 CGPA: 7.79/10
+📊 CGPA: 7.89/10
 
 **Delhi Public School, Nerul** – Senior Secondary (CBSE)  
 📊 Percentage: 75%
