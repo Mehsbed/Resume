@@ -1,89 +1,95 @@
-# 💻 Mehank Sahoo
+# MEHANK SAHOO
 
-**Computer Science Undergraduate | Cybersecurity Enthusiast | Developer**
-
-📍 Bhopal, India  
-📧 mehank7214@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/mehank-sahoo/) • [GitHub](https://github.com/Mehsbed) • [HackerRank](https://www.hackerrank.com/profile/mehank2022)
-
----
-
-## 🎓 Education
-
-**Vellore Institute of Technology, Bhopal**  
-*B.Tech in Computer Science Engineering*  
-Minors in Cybersecurity & Digital Forensics  
-📅 Expected Graduation: May 2026  
-📊 CGPA: 7.89/10
-
-**Delhi Public School, Nerul** – Senior Secondary (CBSE)  
-📊 Percentage: 75%
-
-**DAV Public School, Nerul** – Secondary (CBSE)  
-📊 Percentage: 87%
+## Contact Information
+- **LinkedIn:** [mehank-sahoo](https://www.linkedin.com/in/mehank-sahoo/)
+- **Email:** mehank7214@gmail.com
+- **GitHub:** [Mehsbed](https://github.com/Mehsbed)
+- **HackerRank:** [mehank2022](https://www.hackerrank.com/profile/mehank2022)
+- **LeetCode:** [M6W2pv2OGq](https://leetcode.com/u/M6W2pv2OGq/)
 
 ---
 
-## 🛠️ Technical Skills
-
-- **Languages**: C++, Java, Python, Bash, SQL  
-- **Tools & Frameworks**: Kali Linux, OpenVAS, Nmap, Wireshark, Docker, AWS, OpenCV, TensorFlow  
-- **Cybersecurity**: Ethical Hacking, IAM Policies, Vulnerability Testing, Penetration Testing  
+## Professional Summary
+Experienced professional with expertise in data analysis, software development, and problem-solving. Skilled in multiple programming languages and technologies with a strong foundation in mathematics and computer science.
 
 ---
 
-## 💼 Experience
+## Technical Skills
 
-**Cybersecurity Intern**  
-*Intrainz (Recruitment Startup), Bangalore*  
-📅 Nov 2023 – Jan 2024  
-- Performed vulnerability scanning and system hardening using Kali Linux  
-- Completed hands-on labs in ethical hacking
+### Programming Languages
+- Python, Java, JavaScript, C++, SQL
+- HTML/CSS, React Native, Node.js
 
-**Cybersecurity Immersion Intern**  
-*University of Wollongong, Dubai*  
-📅 Jun 2024 – Jul 2024  
-- Secured Docker containers, implemented IAM, integrated AI-based monitoring  
-- Explored robotics frameworks and network protocols
+### Data Science & Analytics
+- Machine Learning, Statistical Analysis
+- Data Visualization, Predictive Modeling
+- Big Data Processing, ETL Pipelines
 
----
-
-## 📁 Projects
-
-**Cisco Packet Sniffer**  
-- Developed a real-time packet analysis web tool  
-- Displayed sender/receiver IPs and supported live filtering
-
-**Ligamentro Sign Language Recognition App**  
-- Built with OpenCV & TensorFlow for real-time sign language interpretation  
-- Achieved 91% accuracy, aiding hearing-impaired users
+### Tools & Technologies
+- Git, Docker, AWS, Azure
+- Jupyter Notebooks, Tableau, Power BI
+- MongoDB, PostgreSQL, MySQL
 
 ---
 
-## 🚀 Activities
+## Work Experience
 
-**NHAI Hackathon – Smart & Safe Highways**  
-📅 2025  
-- Built AI solution for pedestrian safety using smart FOBs  
-- Presented real-time alert system prototype
+### Data Scientist | [Company Name]
+*[Duration]*
+- Developed machine learning models for predictive analytics
+- Implemented data processing pipelines and ETL workflows
+- Collaborated with cross-functional teams to deliver data-driven insights
+- Optimized algorithms for improved performance and accuracy
 
----
-
-## 🏆 Certifications
-
-- **Foundations of Cybersecurity** – Google  
-- **AWS Cloud Practitioner Essentials** – Amazon  
-- **DevOps & Cybersecurity** – IBM  
-- **HTML, CSS, JavaScript** – Johns Hopkins University  
-
----
-
-## 🌐 Languages
-
-- English (Fluent)  
-- Hindi (Fluent)  
-- Marathi (Fluent)
+### Software Developer | [Company Name]
+*[Duration]*
+- Built scalable web applications using modern frameworks
+- Developed RESTful APIs and microservices
+- Participated in code reviews and agile development processes
+- Contributed to system architecture and design decisions
 
 ---
 
-> Passionate about building secure, intelligent, and accessible technology that solves real-world problems.
+## Projects
+
+### Machine Learning Project
+- **Description:** [Brief description of the project]
+- **Technologies:** Python, Scikit-learn, Pandas, NumPy
+- **Outcome:** [Results and impact]
+
+### Web Application
+- **Description:** [Brief description of the project]
+- **Technologies:** React, Node.js, MongoDB
+- **Outcome:** [Results and impact]
+
+---
+
+## Education
+
+### Bachelor's Degree in [Field]
+*[University Name] | [Graduation Year]*
+- **GPA:** [GPA if applicable]
+- **Relevant Coursework:** [Key courses related to your field]
+- **Honors/Awards:** [Any academic achievements]
+
+---
+
+## Certifications
+- [Certification Name] - [Issuing Organization]
+- [Certification Name] - [Issuing Organization]
+
+---
+
+## Languages
+- English (Fluent)
+- [Other languages if applicable]
+
+---
+
+## Interests
+- [Professional interests or hobbies relevant to your field]
+- [Any additional relevant information]
+
+---
+
+*This resume is maintained in multiple versions for different job applications. Each version is customized to highlight relevant skills and experiences for specific positions and companies.*
