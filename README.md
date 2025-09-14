@@ -1,95 +1,80 @@
-# MEHANK SAHOO
+# Mehank Sahoo
 
-## Contact Information
-- **LinkedIn:** [mehank-sahoo](https://www.linkedin.com/in/mehank-sahoo/)
-- **Email:** mehank7214@gmail.com
-- **GitHub:** [Mehsbed](https://github.com/Mehsbed)
-- **HackerRank:** [mehank2022](https://www.hackerrank.com/profile/mehank2022)
-- **LeetCode:** [M6W2pv2OGq](https://leetcode.com/u/M6W2pv2OGq/)
+📍 Mumbai, India  
+📞 +91 8879036885  
+📧 mehank7214@gmail.com  
 
----
-
-## Professional Summary
-Experienced professional with expertise in data analysis, software development, and problem-solving. Skilled in multiple programming languages and technologies with a strong foundation in mathematics and computer science.
+🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com) | [HackerRank](https://hackerrank.com) | [LeetCode](https://leetcode.com)
 
 ---
 
-## Technical Skills
+## 👨‍🎓 Education
 
-### Programming Languages
-- Python, Java, JavaScript, C++, SQL
-- HTML/CSS, React Native, Node.js
-
-### Data Science & Analytics
-- Machine Learning, Statistical Analysis
-- Data Visualization, Predictive Modeling
-- Big Data Processing, ETL Pipelines
-
-### Tools & Technologies
-- Git, Docker, AWS, Azure
-- Jupyter Notebooks, Tableau, Power BI
-- MongoDB, PostgreSQL, MySQL
+**Vellore Institute of Technology**  
+Bachelor of Technology  
+Major in Computer Science with Minors in Cybersecurity and Digital Forensics  
+Cumulative GPA: 8.08/10.0
 
 ---
 
-## Work Experience
+## 🛠️ Skills
 
-### Data Scientist | [Company Name]
-*[Duration]*
-- Developed machine learning models for predictive analytics
-- Implemented data processing pipelines and ETL workflows
-- Collaborated with cross-functional teams to deliver data-driven insights
-- Optimized algorithms for improved performance and accuracy
-
-### Software Developer | [Company Name]
-*[Duration]*
-- Built scalable web applications using modern frameworks
-- Developed RESTful APIs and microservices
-- Participated in code reviews and agile development processes
-- Contributed to system architecture and design decisions
+**Programming Languages:** Python, SQL, Java, JavaScript, HTML, CSS  
+**Tools:** Wireshark, Kali Linux, Nmap, Scapy, OpenCV, TensorFlow, Firebase  
+**Languages:** Fluent in English, Hindi, Marathi
 
 ---
 
-## Projects
+## 🚀 Projects
 
-### Machine Learning Project
-- **Description:** [Brief description of the project]
-- **Technologies:** Python, Scikit-learn, Pandas, NumPy
-- **Outcome:** [Results and impact]
+### Ligamentro Sign Language Recognition | Front-End & App Developer
+- Engineered an Android app using TensorFlow Lite and a custom YOLO model to recognize 26+ ASL gestures in real-time
+- Achieved 99.9% offline functionality by optimizing confidence (30%) and IoU (50%) thresholds
+- Implemented reactive MVVM architecture in Kotlin, reducing inference times to 80ms and enhancing frame rates to 35 FPS
+- Built an image processing pipeline with CameraX and NMS algorithm, improving real-time detection accuracy by 40%
 
-### Web Application
-- **Description:** [Brief description of the project]
-- **Technologies:** React, Node.js, MongoDB
-- **Outcome:** [Results and impact]
+**Tech Stack:** Kotlin, Android SDK, Python, TensorFlow Lite, CameraX, YOLO, MVVM, Computer Vision
 
 ---
 
-## Education
+### Cryo Packet Sniffer | Security Software Developer
+- Developed a real-time network monitoring system capturing 10,000+ packets/minute with <100ms latency and 99.9% uptime
+- Built a responsive dashboard displaying real-time traffic from 1,000 concurrent captures with automatic classification
+- Architected a Python backend with Flask and Scapy, delivering 7 RESTful API endpoints with <50ms response time
 
-### Bachelor's Degree in [Field]
-*[University Name] | [Graduation Year]*
-- **GPA:** [GPA if applicable]
-- **Relevant Coursework:** [Key courses related to your field]
-- **Honors/Awards:** [Any academic achievements]
-
----
-
-## Certifications
-- [Certification Name] - [Issuing Organization]
-- [Certification Name] - [Issuing Organization]
+**Tech Stack:** React, TypeScript, Python, Flask, Scapy, Node.js, Git, Npcap
 
 ---
 
-## Languages
-- English (Fluent)
-- [Other languages if applicable]
+## 💼 Experience
+
+### University of Wollongong | Cybersecurity Immersion Intern
+- Monitored cloud infrastructure, identifying and resolving 10+ critical security misconfigurations
+- Authored and implemented IAM policies, reducing the attack surface by 15%
+- Developed a standardized security baseline, slashing incident response time by 1 hour
 
 ---
 
-## Interests
-- [Professional interests or hobbies relevant to your field]
-- [Any additional relevant information]
+### Intrainz | Cybersecurity Intern
+- Audited system vulnerabilities using Kali Linux, Wireshark, Nmap, and Nessus, identifying 10+ critical issues per test
+- Resolved 95% of critical security incidents within SLA by correlating alerts and hardening systems
 
 ---
 
-*This resume is maintained in multiple versions for different job applications. Each version is customized to highlight relevant skills and experiences for specific positions and companies.*
+## 📜 Certifications
+
+- Foundations of Cybersecurity - Google
+- AWS Cloud Practitioner Essentials - AWS
+- DevOps and Cyber Security - IBM
+- HTML, CSS, and JavaScript - Johns Hopkins
+
+---
+
+## 🏆 Extra-Curricular
+
+### Hackathon – AI for Pedestrian Safety
+- Pioneered a predictive safety system using computer vision (YOLO) and IoT, achieving 95% predictive accuracy and reducing incident rates by 40%
+
+---
+
+*This README is based on my professional resume. For more details or opportunities, please reach out!*
